@@ -1,7 +1,6 @@
 import Data.List
 
 main :: IO ()
---main = putStrLn . show $ take 10001 primes
 main = putStrLn . show . head . flip (drop) (primes) $ 10000
 
 primes :: [Int]
