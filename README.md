@@ -1,0 +1,1 @@
+My [project Euler](http://projecteuler.net) solved problems. Updated seldomly.
